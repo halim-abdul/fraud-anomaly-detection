@@ -1,0 +1,8 @@
+seed: 42
+model: histgb
+contamination: 0.02
+ensemble_alpha: 0.75
+alert_threshold: 0.70
+features:
+  high_amount_quantile: 0.98
+  velocity_window_minutes: 60

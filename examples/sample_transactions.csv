@@ -1,0 +1,4 @@
+transaction_id,timestamp,customer_id,amount,merchant_risk,foreign,new_device,card_present,is_fraud
+tx-demo-001,2026-01-01T10:01:00Z,c001,24.30,0.05,0,0,1,0
+tx-demo-002,2026-01-01T10:03:00Z,c002,1890.00,0.83,1,1,0,1
+tx-demo-003,2026-01-01T23:57:00Z,c001,420.00,0.41,0,1,0,0
